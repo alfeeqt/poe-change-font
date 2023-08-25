@@ -5,6 +5,6 @@ RESTART PC FOR CHANGES TO TAKE EFFECT
 
 ![Download](https://github.com/alfeeqt/poe-change-font/archive/refs/tags/v1.0.1.zip)
 
-![Screenshot 1](https://drive.google.com/uc?id=16PUuLKKfArOSJvykRKMIqwpiC44qycUk)
+![Screenshot 1](https://github.com/alfeeqt/poe-change-font/blob/main/Screenshot%201.jpg)
 
-![Screenshot 2](https://drive.google.com/uc?id=16TxP9gkmMRtljYaunJWMjB0_YN6yDvMo)
+![Screenshot 2](https://github.com/alfeeqt/poe-change-font/blob/main/Screenshot%202.jpg)
