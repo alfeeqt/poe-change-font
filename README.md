@@ -1,5 +1,5 @@
 # poe-change-font
-Changes the default font of Path of Exile to [Bahnschrift](https://learn.microsoft.com/en-us/typography/font-list/bahnschrift) (Windows 10/11)
+Changes the default font of Path of Exile to Bahnschrift (Windows 10/11)
 
 RESTART PC FOR CHANGES TO TAKE EFFECT
 
